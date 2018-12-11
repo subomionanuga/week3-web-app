@@ -13,7 +13,7 @@ get '/sushi' do
 end
 
 get '/lobster' do
-  "Steamed Lobster with Garlic Bitter"
+  "Steamed Lobster with Garlic Butter"
 end
 
 get '/cat' do
